@@ -19,3 +19,6 @@ loading the first dataset
 ![data 1](https://user-images.githubusercontent.com/117605778/216795864-66f6e59f-281d-4651-9879-1c7dd779c11c.png)
 
 
+accuracy of data
+
+![acc 1](https://user-images.githubusercontent.com/117605778/216795926-7c15541e-971e-44b0-b38c-a4f980bce40b.png)
