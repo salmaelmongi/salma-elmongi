@@ -33,3 +33,32 @@ showing the data in plot
 visualizing and ploting the data 
 
 ![viis](https://user-images.githubusercontent.com/117605778/216796035-528632c2-b4ca-466d-b459-83ac24735c4a.png)
+
+
+loading the second dataset
+
+
+![data2](https://user-images.githubusercontent.com/117605778/216796085-bdddbccd-8179-43b4-8ac3-2dc3adfb7c2a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
