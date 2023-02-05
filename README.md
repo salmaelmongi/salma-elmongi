@@ -28,3 +28,8 @@ showing the data in plot
 
 
 ![1](https://user-images.githubusercontent.com/117605778/216795983-d3f7d310-3923-46dc-a723-9b2b0dbe858f.png)
+
+
+visualizing and ploting the data 
+
+![viis](https://user-images.githubusercontent.com/117605778/216796035-528632c2-b4ca-466d-b459-83ac24735c4a.png)
