@@ -56,7 +56,12 @@ showing the data in plot
 
 
 
+visualizing and ploting the data 
 
+
+
+
+![vis](https://user-images.githubusercontent.com/117605778/216796222-05d4359c-a3ed-42f3-8421-89cfdc251b3c.png)
 
 
 
