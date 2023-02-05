@@ -22,3 +22,9 @@ loading the first dataset
 accuracy of data
 
 ![acc 1](https://user-images.githubusercontent.com/117605778/216795926-7c15541e-971e-44b0-b38c-a4f980bce40b.png)
+
+
+showing the data in plot 
+
+
+![1](https://user-images.githubusercontent.com/117605778/216795983-d3f7d310-3923-46dc-a723-9b2b0dbe858f.png)
