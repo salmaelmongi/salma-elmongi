@@ -19,7 +19,7 @@ loading the first dataset
 ![data 1](https://user-images.githubusercontent.com/117605778/216795864-66f6e59f-281d-4651-9879-1c7dd779c11c.png)
 
 
-accuracy of data
+accuracy of dataset 1
 
 ![acc 1](https://user-images.githubusercontent.com/117605778/216795926-7c15541e-971e-44b0-b38c-a4f980bce40b.png)
 
@@ -41,6 +41,10 @@ loading the second dataset
 ![data2](https://user-images.githubusercontent.com/117605778/216796085-bdddbccd-8179-43b4-8ac3-2dc3adfb7c2a.png)
 
 
+accuracy of dataset 2
+
+
+![acc2](https://user-images.githubusercontent.com/117605778/216796126-37f83a18-755c-4606-8401-dd93c86b22eb.png)
 
 
 
