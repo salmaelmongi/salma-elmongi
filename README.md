@@ -48,8 +48,10 @@ accuracy of dataset 2
 
 
 
+showing the data in plot
 
 
+![2](https://user-images.githubusercontent.com/117605778/216796167-3eed1198-0995-4e7e-8195-ffd5abbf226c.png)
 
 
 
